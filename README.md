@@ -1,5 +1,5 @@
 ### Инструкция по использованию:
-1. скачать [тут]()
+1. скачать [тут](https://github.com/makarova1507ana/11-3/blob/main/my_module.cs)
 ![image](https://github.com/makarova1507ana/11-3/assets/103330304/03dc6f98-f73a-4d5b-899d-a68c7c1ba6e3)
 2. подключить вот так 
 ```c#
