@@ -1,3 +1,11 @@
+### Инструкция по использованию:
+1. скачать тут
+2. подклчить вот так 
+```c#
+using my_module;
+```
+
+
 еще один пример можно посмотреть [тут](https://github.com/Kyros222/Kyros222/blob/main/mark.md) <br>
 *File:* user_location.cpp
  
