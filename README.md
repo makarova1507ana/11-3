@@ -1,5 +1,5 @@
 example foto local
-![gif]()
+![gif](giphy.gif)
 
 ### Инструкция по использованию:
 1. скачать [тут](https://github.com/makarova1507ana/11-3/blob/main/my_module.cs)
